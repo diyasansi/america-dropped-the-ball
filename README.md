@@ -54,7 +54,7 @@ The data shows it. All of it.
 
 ## Data Sources
 
-All datasets were manually compiled from primary sources and are available in the `/data` directory.
+All datasets were manually compiled from primary sources and are available in the repository.
 
 | File | Contents | Sources |
 |---|---|---|
