@@ -1,0 +1,28 @@
+country,confederation,travel_ban_level,visa_bond_required,immigrant_visa_freeze,ice_at_stadiums,staff_denied_entry,fan_ticket_allocation_revoked,barrier_score,notes
+Haiti,CONCACAF,Full ban,No,Yes,Yes,No,No,5,Full travel ban; fans cannot attend US matches
+Iran,AFC,Full ban,No,Yes,Yes,Yes,Yes,6,Full ban; 15+ staff denied visas; ticket allocation revoked; team based in Mexico
+Ivory Coast,CAF,Partial restriction,Yes (waived for PASS),No,Yes,No,No,3,Partial restrictions; visa bond waived for ticket holders via PASS
+Senegal,CAF,Partial restriction,Yes (waived for PASS),No,Yes,No,No,3,Partial restrictions; visa bond waived for ticket holders via PASS
+Algeria,CAF,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze; fan access uncertain; heightened screening
+Morocco,CAF,No ban,No,Yes (immigrant only),Yes,No,No,2,40+ supporter association members denied visas despite having tickets
+Egypt,CAF,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze; uncertainty for fans
+Ghana,CAF,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze
+Tunisia,CAF,No ban,Yes (waived for PASS),Yes (immigrant only),Yes,No,No,3,Visa bond previously required + immigrant freeze
+Cabo Verde,CAF,No ban,Yes (waived for PASS),Yes (immigrant only),Yes,No,No,3,Visa bond previously required
+Jordan,AFC,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze
+Uruguay,CONMEBOL,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze - notable given Uruguay's football culture
+Uzbekistan,AFC,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze
+Colombia,CONMEBOL,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze
+Brazil,CONMEBOL,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze - remarkable given Brazil's football fanbase
+Guatemala,CONCACAF,No ban,No,Yes (immigrant only),Yes,No,No,2,Immigrant visa freeze
+Argentina,CONMEBOL,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier
+Germany,UEFA,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier
+Spain,UEFA,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier
+France,UEFA,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier
+Portugal,UEFA,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier
+England,UEFA,None,No,No,Yes,No,No,1,ICE presence only; 30k fewer tickets sold than 2014
+Japan,AFC,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier
+South Korea,AFC,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier
+Australia,AFC,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier
+Nigeria,CAF,None,No,No,Yes,No,No,1,Reported delays though no formal ban
+New Zealand,OFC,None,No,No,Yes,No,No,1,ICE presence only - no specific visa barrier

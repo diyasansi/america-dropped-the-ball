@@ -1,0 +1,31 @@
+year,host,category,stage,price_usd,notes
+2014,Brazil,Cat1,Group stage,175,Official FIFA face value
+2014,Brazil,Cat2,Group stage,90,Official FIFA face value
+2014,Brazil,Cat3,Group stage,50,Official FIFA face value
+2014,Brazil,Cat4 (residents),Group stage,13,Resident-only pricing
+2014,Brazil,Cat1,Final,450,Official FIFA face value
+2014,Brazil,Cat2,Final,325,Official FIFA face value
+2014,Brazil,Cat3,Final,200,Official FIFA face value
+2018,Russia,Cat1,Group stage,210,Official FIFA face value
+2018,Russia,Cat2,Group stage,165,Official FIFA face value
+2018,Russia,Cat3,Group stage,105,Official FIFA face value
+2018,Russia,Cat4 (residents),Group stage,35,Resident-only pricing
+2018,Russia,Cat1,Final,1100,Official FIFA face value
+2018,Russia,Cat2,Final,710,Official FIFA face value
+2018,Russia,Cat3,Final,455,Official FIFA face value
+2022,Qatar,Cat1,Group stage,210,Official FIFA face value
+2022,Qatar,Cat2,Group stage,100,Official FIFA face value
+2022,Qatar,Cat3,Group stage,55,Official FIFA face value
+2022,Qatar,Cat4 (residents),Group stage,11,Resident-only pricing
+2022,Qatar,Cat1,Final,1607,Official FIFA face value
+2022,Qatar,Cat2,Final,1003,Official FIFA face value
+2022,Qatar,Cat3,Final,604,Official FIFA face value
+2022,Qatar,Cat4,Final,206,Cheapest final ticket
+2026,United States,Cat1,Group stage,575,Official FIFA face value
+2026,United States,Cat2,Group stage,300,Official FIFA face value
+2026,United States,Cat3,Group stage,160,Official FIFA face value
+2026,United States,Cat4,Group stage,100,Entry-level; avg cheapest in LA was $1040 on resale 60 days out
+2026,United States,Cat1,Final,10990,Official FIFA face value (Phase 4 - up 70% from Oct launch)
+2026,United States,Cat2,Final,7380,Official FIFA face value
+2026,United States,Cat3,Final,5785,Official FIFA face value
+2026,United States,Cat4,Final,2030,Cheapest final ticket - more than Cat1 Final 2022

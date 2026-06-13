@@ -1,0 +1,16 @@
+year,country,inbound_visitors_millions,world_cup_host,notes
+2013,Brazil,5.81,0,Pre-WC year
+2014,Brazil,6.43,1,WC host year - record at time
+2015,Brazil,6.36,0,Post-WC year
+2017,Russia,24.4,0,Pre-WC year
+2018,Russia,24.6,1,WC host year (modest bump due to WC)
+2019,Russia,24.4,0,Post-WC year
+2021,Qatar,0.59,0,Pre-WC year (pandemic)
+2022,Qatar,2.61,1,WC host year (Nov-Dec tournament)
+2023,Qatar,4.09,0,Post-WC boom
+2019,United States,79.4,0,Pre-pandemic peak
+2022,United States,50.8,0,Recovery year
+2023,United States,66.5,0,Continued recovery
+2024,United States,72.4,0,Still below 2019 peak
+2025,United States,68.3,0,First YoY decline since 2020 - Trump effect
+2026,United States,62.0,1,WC host year - projected decline (Tourism Economics est.)

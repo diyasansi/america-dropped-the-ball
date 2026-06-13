@@ -1,0 +1,7 @@
+host,year,tourism_uplift_score,attendance_fill_score,ticket_accessibility_score,fan_access_score,hotel_readiness_score,composite_score,notes
+Germany,2006,8.0,9.8,8.5,9.5,9.5,9.1,"Strong uplift; near-capacity; affordable tickets; no access barriers; purpose-built venues"
+South Africa,2010,6.5,9.4,8.0,9.0,7.5,8.1,"Below tourism expectations; good fill rate; logistical issues; some empty seats"
+Brazil,2014,8.5,9.7,7.5,9.5,8.0,8.6,"Record tourism for Brazil; near-full stadia; domestic protests but excellent football atmosphere"
+Russia,2018,5.5,9.7,8.5,8.5,9.0,8.2,"Modest tourism bump; excellent fill rate; English fans stayed away; but no systemic access barriers"
+Qatar,2022,7.0,9.5,6.0,8.0,9.5,8.0,"Controversial host; smaller nation but delivered; expensive but resident tickets cheap; some empty seats; no widespread travel bans"
+United States,2026,2.0,4.0,1.5,2.5,4.0,2.8,"Tourism declining pre-tournament; unsold seats opening day; ~10x ticket price hike; 4 nations on travel ban; 39 countries with restrictions; ICE at stadiums; hotels cutting prices"
