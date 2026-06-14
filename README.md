@@ -68,7 +68,7 @@ All datasets were manually compiled from primary sources and are available in th
 
 ## Methodology Note
 
-The composite host performance scores are researcher-assigned rather than algorithmically modelled. Each of the five dimensions, tourism uplift, stadium fill rate, ticket accessibility, fan access, and hotel readiness, was scored on a 0 to 10 scale based on published data from the sources listed above. Prior hosts were scored using historical records and academic literature. The US 2026 score reflects data available as of June 2026, with tourism projections based on forecasts from Tourism Economics and the ITA rather than final confirmed numbers. Scores are intended to be directionally accurate and comparative rather than precisely quantitative. The underlying data is available in full for anyone who wants to interrogate or challenge the findings.
+The composite host performance scores are researcher-assigned rather than algorithmically modelled. Each of the five dimensions, tourism uplift, stadium fill rate, ticket accessibility, fan access, and hotel readiness, was scored on a 0 to 10 scale by AI based on published data from the sources listed above. Prior hosts were scored using historical records and academic literature. The US 2026 score reflects data available as of June 2026, with tourism projections based on forecasts from Tourism Economics and the ITA rather than final confirmed numbers. Scores are intended to be directionally accurate and comparative rather than precisely quantitative. The underlying data is available in full for anyone who wants to interrogate or challenge the findings.
 
 ---
 
